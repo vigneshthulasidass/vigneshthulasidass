@@ -1,5 +1,6 @@
 Hola, I"m Vignesh 👋
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
 - 🔭  I’m a graduate student at Northeastern University. Pursuing Master's in Analytics. 3+ years experience in e-commerce industry.
 - 🌱 Currently working as Data Science realted projects using (Python, SQL, ML ,NLP, Deep Learning)
@@ -11,3 +12,4 @@ Hola, I"m Vignesh 👋
 - ⚡ Fun fact: I spend most of time in exploring new stuff
 
 <img src= "https://github-readme-stats.vercel.app/api?username=vigneshthulasidass&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
