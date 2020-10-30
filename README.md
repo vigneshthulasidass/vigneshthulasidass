@@ -10,4 +10,4 @@ Hola, I"m Vignesh 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of time in exploring new stuff
 
-<img src= "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src= "https://github-readme-stats.vercel.app/api?username=vigneshthulasidass&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
