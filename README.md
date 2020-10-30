@@ -1,9 +1,5 @@
-### Hola, I"m Vignesh 👋
+Hola, I"m Vignesh 👋
 
-<!--
-**vigneshthulasidass/vigneshthulasidass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭  I’m a graduate student at Northeastern University. Pursuing Master's in Analytics. 3+ years experience in e-commerce industry.
 - 🌱 Currently working as Data Science realted projects using (Python, SQL, ML ,NLP, Deep Learning)
