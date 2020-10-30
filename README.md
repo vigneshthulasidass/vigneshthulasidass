@@ -9,4 +9,5 @@ Hola, I"m Vignesh 👋
 - 📫 How to reach me:  [Linkedin - Vignesh]Linkedin.in/VigneshThulasidass
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of time in exploring new stuff
--->
+
+https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919
